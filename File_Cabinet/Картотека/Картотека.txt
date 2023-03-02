@@ -1,0 +1,32 @@
+﻿Person N:1
+Tom
+Smit
+23
+Person N:2
+Geek
+Charm
+43
+Person N:3
+Yolo
+Nosov
+56
+Person N:4
+Антон
+Богачев
+24
+Person N:5
+Денис
+Новиков
+56
+Person N:6
+Anna
+Volochkova
+22
+Person N:7
+Lima
+Lomonosova
+67
+Person N:8
+Pavel
+Gonzo
+43

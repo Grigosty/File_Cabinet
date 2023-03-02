@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\учеба\мои проекты\Картотека\Картотека\bin\Debug\net7.0\Картотека.exe
+C:\Users\Admin\Desktop\учеба\мои проекты\Картотека\Картотека\bin\Debug\net7.0\Картотека.deps.json
+C:\Users\Admin\Desktop\учеба\мои проекты\Картотека\Картотека\bin\Debug\net7.0\Картотека.runtimeconfig.json
+C:\Users\Admin\Desktop\учеба\мои проекты\Картотека\Картотека\bin\Debug\net7.0\Картотека.dll
+C:\Users\Admin\Desktop\учеба\мои проекты\Картотека\Картотека\bin\Debug\net7.0\Картотека.pdb
+C:\Users\Admin\Desktop\учеба\мои проекты\Картотека\Картотека\obj\Debug\net7.0\Картотека.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\учеба\мои проекты\Картотека\Картотека\obj\Debug\net7.0\Картотека.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\учеба\мои проекты\Картотека\Картотека\obj\Debug\net7.0\Картотека.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\учеба\мои проекты\Картотека\Картотека\obj\Debug\net7.0\Картотека.AssemblyInfo.cs
+C:\Users\Admin\Desktop\учеба\мои проекты\Картотека\Картотека\obj\Debug\net7.0\Картотека.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\учеба\мои проекты\Картотека\Картотека\obj\Debug\net7.0\Картотека.dll
+C:\Users\Admin\Desktop\учеба\мои проекты\Картотека\Картотека\obj\Debug\net7.0\refint\Картотека.dll
+C:\Users\Admin\Desktop\учеба\мои проекты\Картотека\Картотека\obj\Debug\net7.0\Картотека.pdb
+C:\Users\Admin\Desktop\учеба\мои проекты\Картотека\Картотека\obj\Debug\net7.0\Картотека.genruntimeconfig.cache
+C:\Users\Admin\Desktop\учеба\мои проекты\Картотека\Картотека\obj\Debug\net7.0\ref\Картотека.dll
